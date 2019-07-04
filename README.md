@@ -1,4 +1,4 @@
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=space-game-web-3165&metric=alert_status)](https://sonarcloud.io/dashboard?id=space-game-web-3165)
+[![Build Status](https://dev.azure.com/tailspin3165/Space%20Game%20-%20web/_apis/build/status/armstrongi.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/tailspin3165/Space%20Game%20-%20web/_build/latest?definitionId=1&branchName=master)[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=space-game-web-3165&metric=alert_status)](https://sonarcloud.io/dashboard?id=space-game-web-3165)
 
 # Contributing
 
